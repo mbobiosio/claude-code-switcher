@@ -1,0 +1,4 @@
+# User keys (if they copy configs here)
+*.env
+*secret*
+*key*
