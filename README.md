@@ -91,6 +91,7 @@ Each command only sets what it needs. Everything else is inherited from the glob
 
 ## Requirements
 
+- macOS or Linux
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) installed (`claude` command)
 - A [DeepSeek API key](https://platform.deepseek.com) (starts with `sk-`)
 - An [Anthropic API key](https://console.anthropic.com) (optional, starts with `sk-ant-`)
